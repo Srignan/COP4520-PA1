@@ -5,6 +5,6 @@ I used the Sieve of Eratosthenes to build my program as you might be able to tel
 
 
 
-## Run the program:
+## Run the program/Efficiency:
 
 “javac SieveOfEratosthenes” and then “java SieveOfEratosthenes” in terminal. It should generate a text file. My speed was anywhere between 836MS (current 11th gen 8 core laptop on terminal) to 1803MS (on IntelliJ with multiple extensions in my old 6th gen 4 core laptop). I added a prime txt file for proof of correctness. 
